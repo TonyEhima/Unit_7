@@ -1,2 +1,13 @@
 # Unit_7
 Back-end Implementation
+![Screenshot (536)](https://github.com/user-attachments/assets/3e526704-8eb6-4ee2-9fba-cb683a01ac87)
+![Screenshot (535)](https://github.com/user-attachments/assets/8ef35852-04bc-418f-a192-72fdbda82825)
+![Screenshot (534)](https://github.com/user-attachments/assets/c93df338-4e75-4745-96e8-f06ccfe0081c)
+![Screenshot (533)](https://github.com/user-attachments/assets/211aabab-c294-43b7-9206-79df8a1dd267)
+![Screenshot (532)](https://github.com/user-attachments/assets/01221963-321c-46a0-82ac-cccaacb35bc7)
+![Screenshot (531)](https://github.com/user-attachments/assets/ff04a264-d138-42b5-aa83-3cf2153cbb89)
+![Screenshot (530)](https://github.com/user-attachments/assets/72ced597-987e-4b8d-a487-855fbb3ff8ce)
+![Screenshot (529)](https://github.com/user-attachments/assets/b557784c-b369-46d7-9fed-903e68f965d4)
+![Screenshot (528)](https://github.com/user-attachments/assets/45a67fa5-154f-4cb9-9244-be72b1e72b83)
+![Screenshot (527)](https://github.com/user-attachments/assets/3cfc8dc9-89f7-4d83-9be5-3609c2aab914)
+![Screenshot (526)](https://github.com/user-attachments/assets/713ce9cf-0954-4b13-b9c7-40b993617946)
